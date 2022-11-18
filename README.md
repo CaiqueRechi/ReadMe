@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @CaiqueRechi (SxTI)
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS projects were i could learn.
+Junior Developer
 - 📫 How to reach me caique_rechi@hotmail.com
